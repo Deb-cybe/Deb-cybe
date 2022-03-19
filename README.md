@@ -34,7 +34,7 @@
 <!-- [![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only) -->
 
  ### Languages and Tools:
- 
+
  [<img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />][atom]
 
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
@@ -58,6 +58,10 @@
 <br />
 
 ---
+### Blog posts 📖
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
