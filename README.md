@@ -57,7 +57,7 @@
 <br />
 <br />
 
----
+<!-- --- -->
 <!-- ### Blog posts 📖
 <!-- BLOG-POST-LIST:START -->
 <!-- - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf) -->
@@ -68,8 +68,8 @@
 <!-- BLOG-POST-LIST:END --> 
 
 ---
-[![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb-cybe)](https://github.com/Deb-cybe/github-readme-stats)
-
+<!-- [![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb-cybe)](https://github.com/Deb-cybe/github-readme-stats) -->
+![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb-cybe&show_icons=true&theme=tokyonight)
 
 <!-- [website]: https://codeSTACKr.com -->
 <!-- [course]: http://vsCodeHero.com -->
