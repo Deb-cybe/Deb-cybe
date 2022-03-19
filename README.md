@@ -72,10 +72,10 @@
 ![Deb's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deb-cybe&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deb-cybe&layout=compact)](https://github.com/Deb-cybe/github-readme-stats)
 <a href="https://github.com/Deb-cybe/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-cybe&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deb-cybe&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/Deb-cybe/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Deb-cybe&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deb-cybe&layout=compact" />
 </a>
 
 <!-- [website]: https://codeSTACKr.com -->
