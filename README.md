@@ -16,6 +16,8 @@
 - 🥅 2022 Goals: Learn JavaScript Frameworks.
 - ⚡ Fun fact:  
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Deb-cybe.Debcybe)
+
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only) -->
