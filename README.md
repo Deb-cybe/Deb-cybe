@@ -18,6 +18,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Deb-cybe.Debcybe)
 
+[![@debm's Holopin board](https://holopin.me/debm)](https://holopin.io/@debm)
+
 ### Connect with me:
 
 <!-- [![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only) -->
